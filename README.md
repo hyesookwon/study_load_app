@@ -14,12 +14,13 @@ A responsive Flutter app to track assignments with start date and deadline. Uses
 
 ## How to use
 
-1. **Add assignment:** Tap "Add" or "Add assignment". Enter name, start date, and deadline, then "Add assignment".
+1. **Run the app** "Add" or "Add assignment". Enter name, start date, and deadline, then "Add assignment".
 
-2. **Week view:** The home screen shows the current week (Mon–Sun). Today's column is highlighted. Each row is one assignment; D-day countdown is shown in each cell. Tap the circle to mark done/not done; tap the name to open the detail screen.
+2. **Week view:** The home2screen shows the current week (Mon–Sun). Today's column is highlighted. Each row is one assignment; D-day countdown is shown in each cell. Tap the circle to mark done/not done; tap the name to open the detail screen.
 
 3. **Screens:**
    - **Home:** Week table and "Add" FAB.
    - **Add assignment:** Form (name, start date, deadline).
    - **Assignment detail:** `/assignment/<id>` – view and toggle done.
    - **Statistics:** Total, done, pending, overdue, completion %.
+
